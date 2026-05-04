@@ -2,7 +2,7 @@
 import json, os, urllib.request, urllib.error, time
 from datetime import datetime, timezone
 
-token = os.environ.get("GH_PAT", "")
+token = os.environ.get("GH_TOKEN", "")
 headers = {
     "Accept": "application/vnd.github.v3+json",
     "User-Agent": "pour-skills-registry",

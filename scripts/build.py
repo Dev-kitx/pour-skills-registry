@@ -24,8 +24,37 @@ def gh_get(url, retries=3):
             else:
                 raise
 
-SEARCH_QUERIES = [
-    "filename:SKILL.md",                        # root + flat layouts
+def build_date_windows():
+    """Generate quarterly date windows from 2019 up to today, with an open-ended final window.
+
+    Closed windows are fixed in the past and will never exceed the 1000-result cap.
+    Only the last (open-ended) window grows over time; when it approaches the cap a
+    new quarter will automatically split off on the next run.
+    """
+    from datetime import date
+    quarter_end = {1: (3, 31), 4: (6, 30), 7: (9, 30), 10: (12, 31)}
+    today = datetime.now(timezone.utc).date()
+    cur_q_month = max(m for m in quarter_end if m <= today.month)
+    cur_q_start = date(today.year, cur_q_month, 1)
+
+    windows = []
+    d = date(2019, 1, 1)
+    while d < cur_q_start:
+        end_month, end_day = quarter_end[d.month]
+        windows.append(f"{d}..{date(d.year, end_month, end_day)}")
+        next_month = d.month + 3
+        d = date(d.year + 1, 1, 1) if next_month > 12 else date(d.year, next_month, 1)
+
+    windows.append(f"{cur_q_start}..*")
+    return windows
+
+# Broad queries (no path filter) are expanded into date windows.
+# Path-specific queries are narrow enough to stay under the 1000-result cap.
+BROAD_QUERIES = [
+    "filename:SKILL.md",
+]
+
+PATH_QUERIES = [
     "filename:SKILL.md path:.claude",
     "filename:SKILL.md path:.agents",
     "filename:SKILL.md path:.windsurf",
@@ -74,9 +103,24 @@ SEARCH_QUERIES = [
     "filename:SKILL.md path:.adal",
     "filename:SKILL.md path:.codeartsdoer",
     "filename:SKILL.md path:skills",           # openclaw project path
+    "filename:SKILL.md path:.github",          # github-native layouts
+    "filename:SKILL.md path:prompts",          # vscode copilot extension layout
+    "filename:SKILL.md path:.amazonq",
+    "filename:SKILL.md path:.cody",
+    "filename:SKILL.md path:.sourcegraph",
+    "filename:SKILL.md path:.tabby",
 ]
 
 repos = {}
+
+# Expand broad queries into date-windowed variants, then append path-specific queries.
+def build_query_list():
+    queries = []
+    for base in BROAD_QUERIES:
+        for window in build_date_windows():
+            queries.append(f"{base} created:{window}")
+    queries.extend(PATH_QUERIES)
+    return queries
 
 def process_items(items):
     for item in items:
@@ -91,10 +135,10 @@ def process_items(items):
             "url": r.get("html_url", ""),
         }
 
-for query in SEARCH_QUERIES:
+for query in build_query_list():
     print(f"Searching: {query}")
     q = query.replace(" ", "+")
-    for page in range(1, 4):
+    for page in range(1, 11):
         url = f"https://api.github.com/search/code?q={q}&per_page=100&page={page}"
         try:
             data = gh_get(url)

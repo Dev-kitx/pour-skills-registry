@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-import json, os, urllib.request, time
+import json, os, urllib.request, urllib.error, time
 from datetime import datetime, timezone
 
-token = os.environ.get("GH_TOKEN", "")
+token = os.environ.get("GH_PAT", "")
 headers = {
     "Accept": "application/vnd.github.v3+json",
     "User-Agent": "pour-skills-registry",
@@ -10,10 +10,19 @@ headers = {
 if token:
     headers["Authorization"] = f"Bearer {token}"
 
-def gh_get(url):
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read())
+def gh_get(url, retries=3):
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 429) and attempt < retries - 1:
+                wait = int(e.headers.get("Retry-After", (2 ** attempt) * 10))
+                print(f"  Rate limited ({e.code}), retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
 
 SEARCH_QUERIES = [
     "filename:SKILL.md",                        # root + flat layouts

@@ -25,7 +25,7 @@
 
         - name: Crawl GitHub for skills
           env:
-            GH_TOKEN: ${{ steps.app-token.outputs.token }}
+            GH_TOKEN: ${{ secrets.GH_PAT }}
           run: python3 scripts/build.py
 
         - name: Commit if changed

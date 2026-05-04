@@ -1,5 +1,978 @@
 {
-    "updated_at": "2026-05-03T00:00:00Z",
-    "count": 0,
-    "repos": []
-  }
+  "updated_at": "2026-05-04T03:45:34Z",
+  "count": 162,
+  "repos": [
+    {
+      "repo": "dztabel-happy/codex-agent",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/dztabel-happy/codex-agent"
+    },
+    {
+      "repo": "win4r/mytest",
+      "description": "AI\u8d85\u5143\u57df\u9891\u9053_\u89c6\u9891\u9879\u76ee\u6587\u4ef6",
+      "stars": 0,
+      "url": "https://github.com/win4r/mytest"
+    },
+    {
+      "repo": "Jeffreyxdev/zola-ai",
+      "description": "An autonomous Solana wallet agent that executes payments via Twitter mentions and an in-app dashboard, powered by Claude.",
+      "stars": 0,
+      "url": "https://github.com/Jeffreyxdev/zola-ai"
+    },
+    {
+      "repo": "trsoliu/mini-wiki",
+      "description": "Open Source  Skills Wiki: AI-Powered skills Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. ",
+      "stars": 0,
+      "url": "https://github.com/trsoliu/mini-wiki"
+    },
+    {
+      "repo": "fabriciocgf/cv",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/fabriciocgf/cv"
+    },
+    {
+      "repo": "chihpao/dinner-picker",
+      "description": "\u5b5c\u4fdd\u8a02\u665a\u9910\u7528",
+      "stars": 0,
+      "url": "https://github.com/chihpao/dinner-picker"
+    },
+    {
+      "repo": "1055373165/Better-Prompt",
+      "description": "Write the best prompts for LLM",
+      "stars": 0,
+      "url": "https://github.com/1055373165/Better-Prompt"
+    },
+    {
+      "repo": "aryaminus/at",
+      "description": "at (from @) is an agent-native programming language with explicit effects, predictable semantics, and first-class tooling.",
+      "stars": 0,
+      "url": "https://github.com/aryaminus/at"
+    },
+    {
+      "repo": "onimisim2204430/church-digital-engagement-platform",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/onimisim2204430/church-digital-engagement-platform"
+    },
+    {
+      "repo": "OEN-Tech/incident-report-skill",
+      "description": "Claude Code skill: Taiwan cybersecurity incident report generator (\u500b\u4eba\u8cc7\u6599\u4fb5\u5bb3\u4e8b\u6545\u901a\u5831\u8207\u7d00\u9304\u8868)",
+      "stars": 0,
+      "url": "https://github.com/OEN-Tech/incident-report-skill"
+    },
+    {
+      "repo": "revengerrr/clawdsign",
+      "description": "\ud83e\udd9e The first visual identity system for AI agents. Generate unique, verifiable signatures for every AI agent in the OpenClaw ecosystem. CA: FvARRCtzDRZj1zPCUDMxF3ibguVQGPjVcnAJAWRsBAGS",
+      "stars": 0,
+      "url": "https://github.com/revengerrr/clawdsign"
+    },
+    {
+      "repo": "neatsarab/GAP-Design-System",
+      "description": "GAP Design System with vuetify",
+      "stars": 0,
+      "url": "https://github.com/neatsarab/GAP-Design-System"
+    },
+    {
+      "repo": "openclawfice/openclawfice",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/openclawfice/openclawfice"
+    },
+    {
+      "repo": "iri-pycpt/PyCPT2-Seasonal-Forecast-User-Guide",
+      "description": "Guide to using PyCPT2 for IRI NextGen seasonal climate forecasts",
+      "stars": 0,
+      "url": "https://github.com/iri-pycpt/PyCPT2-Seasonal-Forecast-User-Guide"
+    },
+    {
+      "repo": "YouMingYeh/ntu",
+      "description": "Claude Code skill for NTU students \u2014 sync courses, schedule, deadlines from COOL, myNTU, Mail & ePortfolio",
+      "stars": 0,
+      "url": "https://github.com/YouMingYeh/ntu"
+    },
+    {
+      "repo": "ankushKun/pumpmyclaw",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/ankushKun/pumpmyclaw"
+    },
+    {
+      "repo": "Sunwood-ai-labs/draw-io-skill",
+      "description": "Native draw.io skill with export helpers, SVG linting, and public docs for Codex and Claude Code workflows.",
+      "stars": 0,
+      "url": "https://github.com/Sunwood-ai-labs/draw-io-skill"
+    },
+    {
+      "repo": "zentai/bayes_excersice",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/zentai/bayes_excersice"
+    },
+    {
+      "repo": "coinset-org/cli",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/coinset-org/cli"
+    },
+    {
+      "repo": "Aojianlong/markdown-to-feishu",
+      "description": "\u5c06markdown\u683c\u5f0f\u7684\u6587\u672c\u6587\u4ef6\u4e00\u952e\u540c\u6b65\u5230\u98de\u4e66\u4e91\u6587\u6863\uff0c\u5e76\u8fdb\u884c\u5bf9\u5e94\u7684\u683c\u5f0f\u8f6c\u6362",
+      "stars": 0,
+      "url": "https://github.com/Aojianlong/markdown-to-feishu"
+    },
+    {
+      "repo": "naoterumaker/japan-gyousei-data",
+      "description": "\ud83c\uddef\ud83c\uddf5 \u65e5\u672c\u306e\u884c\u653f\u30aa\u30fc\u30d7\u30f3\u30c7\u30fc\u30bf\u306b\u30a2\u30af\u30bb\u30b9\u3059\u308bOpenClaw\u30b9\u30ad\u30eb\uff08\u4e0d\u52d5\u7523\u53d6\u5f15\u4fa1\u683c\u30fb\u5b98\u516c\u9700\u5165\u672d\u30fbe-Stat\u653f\u5e9c\u7d71\u8a08\uff09",
+      "stars": 0,
+      "url": "https://github.com/naoterumaker/japan-gyousei-data"
+    },
+    {
+      "repo": "jmandel/request-my-ehi",
+      "description": "Claude Code skill to help patients request their complete Electronic Health Information (EHI) Export from any healthcare provider",
+      "stars": 0,
+      "url": "https://github.com/jmandel/request-my-ehi"
+    },
+    {
+      "repo": "cashubtc/cashu-skill",
+      "description": "A Cashu wallet skill for AI agents",
+      "stars": 0,
+      "url": "https://github.com/cashubtc/cashu-skill"
+    },
+    {
+      "repo": "CyrusNuevoDia/coderlm",
+      "description": "Make codex, gemini-cli, or any other coding agent into an RLM.",
+      "stars": 0,
+      "url": "https://github.com/CyrusNuevoDia/coderlm"
+    },
+    {
+      "repo": "yxp934/crushable-wingman-skill",
+      "description": "clone\u4f46\u662f\u4e0d\u7ed9star\u7684\u662fgay",
+      "stars": 0,
+      "url": "https://github.com/yxp934/crushable-wingman-skill"
+    },
+    {
+      "repo": "sliday/daub",
+      "description": "The component library that feels like something. 73 elements, 20 themes, 230+ blocks. Drop in, ship.",
+      "stars": 0,
+      "url": "https://github.com/sliday/daub"
+    },
+    {
+      "repo": "JadeLiu-tech/px-asset-extract",
+      "description": "Extract individual assets from images as transparent PNGs. Zero ML models, pure classical CV. This is used in pdf2ppt online tool pxGenius.ai",
+      "stars": 0,
+      "url": "https://github.com/JadeLiu-tech/px-asset-extract"
+    },
+    {
+      "repo": "cascade-protocol/sati",
+      "description": "Trust infrastructure for million-agent economies on Solana - identity, reputation, and validation designed for continuous feedback at scale.",
+      "stars": 0,
+      "url": "https://github.com/cascade-protocol/sati"
+    },
+    {
+      "repo": "TONresistor/teleton-plugins",
+      "description": "Community plugin directory for Teleton \u2014 the Telegram AI agent on TON",
+      "stars": 0,
+      "url": "https://github.com/TONresistor/teleton-plugins"
+    },
+    {
+      "repo": "mjwhansen/shipscore",
+      "description": "The SHIP Score: A simple framework for prioritizing issues",
+      "stars": 0,
+      "url": "https://github.com/mjwhansen/shipscore"
+    },
+    {
+      "repo": "CY-CHENYUE/wechat-typesetting-cy",
+      "description": "\u5fae\u4fe1\u516c\u4f17\u53f7\u6587\u7ae0\u591a\u6a21\u677f\u6392\u7248\u6280\u80fd",
+      "stars": 0,
+      "url": "https://github.com/CY-CHENYUE/wechat-typesetting-cy"
+    },
+    {
+      "repo": "victoriaplummer/airtable-interface-extension-toolkit",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/victoriaplummer/airtable-interface-extension-toolkit"
+    },
+    {
+      "repo": "theoddden/Terradev",
+      "description": "An imperative language for AI workload orchestration",
+      "stars": 0,
+      "url": "https://github.com/theoddden/Terradev"
+    },
+    {
+      "repo": "viktorvuka/claude-things-skill",
+      "description": "Things 3 link to add anything from Claude",
+      "stars": 0,
+      "url": "https://github.com/viktorvuka/claude-things-skill"
+    },
+    {
+      "repo": "niveshdandyan/happycapy-browser-agent",
+      "description": "Browser-Use Skill for HappyCapy.ai",
+      "stars": 0,
+      "url": "https://github.com/niveshdandyan/happycapy-browser-agent"
+    },
+    {
+      "repo": "3li7alaki/mint",
+      "description": "Disciplined agentic development for Claude Code.",
+      "stars": 0,
+      "url": "https://github.com/3li7alaki/mint"
+    },
+    {
+      "repo": "netease-youdao/ScholarClaw",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/netease-youdao/ScholarClaw"
+    },
+    {
+      "repo": "ZhenHuangLab/collaborating-with-claude-code",
+      "description": "Let codex (main agent) collaborate with claude code Through codex skills",
+      "stars": 0,
+      "url": "https://github.com/ZhenHuangLab/collaborating-with-claude-code"
+    },
+    {
+      "repo": "rufuspollock/ux-patterns",
+      "description": "UX Patterns I have known. In digital garden form.",
+      "stars": 0,
+      "url": "https://github.com/rufuspollock/ux-patterns"
+    },
+    {
+      "repo": "AnyGenIO/anygen-selected-skills",
+      "description": "Curated collection of high-quality AI agent skills, handpicked by the AnyGen team",
+      "stars": 0,
+      "url": "https://github.com/AnyGenIO/anygen-selected-skills"
+    },
+    {
+      "repo": "ythx-101/remote-mac",
+      "description": "Control a remote macOS machine from Linux/VPS via SSH \u2014 screenshots, commands, app control, file transfer",
+      "stars": 0,
+      "url": "https://github.com/ythx-101/remote-mac"
+    },
+    {
+      "repo": "ImL1s/openclaw-ops",
+      "description": "OpenClaw \u904b\u7dad\u77e5\u8b58\u5eab \u2014 Operational knowledge base for OpenClaw AI agent on macOS",
+      "stars": 0,
+      "url": "https://github.com/ImL1s/openclaw-ops"
+    },
+    {
+      "repo": "nielskaspers/bold-designs",
+      "description": "A practical guide to creating interfaces that actually stand out",
+      "stars": 0,
+      "url": "https://github.com/nielskaspers/bold-designs"
+    },
+    {
+      "repo": "wkyleg/personal-genomics",
+      "description": "Analyze your DNA with OpenClaw",
+      "stars": 0,
+      "url": "https://github.com/wkyleg/personal-genomics"
+    },
+    {
+      "repo": "mr-kelly/wxclaw2026",
+      "description": "\ud83e\udde7 2026 \u5fae\u4fe1\u6625\u8282\u795d\u798f Skill for OpenClaw",
+      "stars": 0,
+      "url": "https://github.com/mr-kelly/wxclaw2026"
+    },
+    {
+      "repo": "Rick-Yin/skdformat",
+      "description": "This is a skills for shanghaitech format check",
+      "stars": 0,
+      "url": "https://github.com/Rick-Yin/skdformat"
+    },
+    {
+      "repo": "6missedcalls/video-editing-skill",
+      "description": "Video editing skill for OpenClaw, Claude Code, and Codex \u2014 trim, jump cut, caption (Hormozi/standard/minimal), text overlay, and speed change videos using natural language. Pure Bash + FFmpeg + Whisper. Used and tested with OpenClaw.",
+      "stars": 0,
+      "url": "https://github.com/6missedcalls/video-editing-skill"
+    },
+    {
+      "repo": "marketclaw-tech/openclaw-a2a",
+      "description": "OpenClaw A2A Skill - Agent-to-Agent communication protocol for OpenClaw agents",
+      "stars": 0,
+      "url": "https://github.com/marketclaw-tech/openclaw-a2a"
+    },
+    {
+      "repo": "CommonPaper/claude-skill",
+      "description": "Official Common Paper skill for Claude and other agents",
+      "stars": 0,
+      "url": "https://github.com/CommonPaper/claude-skill"
+    },
+    {
+      "repo": "0x2kNJ/cpo",
+      "description": "The product decision layer for Claude Code \u2014 decides what to build, what to kill, and whether you were right.",
+      "stars": 0,
+      "url": "https://github.com/0x2kNJ/cpo"
+    },
+    {
+      "repo": "lightninglabs/lnget",
+      "description": "wget for the pay-per-request web (powered by Lightning Lab's L402 protocol)",
+      "stars": 0,
+      "url": "https://github.com/lightninglabs/lnget"
+    },
+    {
+      "repo": "lemikeone/Codex-skill-raycast-extension",
+      "description": "Codex skill for Raycast",
+      "stars": 0,
+      "url": "https://github.com/lemikeone/Codex-skill-raycast-extension"
+    },
+    {
+      "repo": "mikhae1/kubeview-mcp",
+      "description": "A fast, read-only MCP server enabling code-driven AI analysis of Kubernetes clusters",
+      "stars": 0,
+      "url": "https://github.com/mikhae1/kubeview-mcp"
+    },
+    {
+      "repo": "SarveshPatkr/claw-browser",
+      "description": "Self-hosted browser runtime with CLI agent control and web client handoff.",
+      "stars": 0,
+      "url": "https://github.com/SarveshPatkr/claw-browser"
+    },
+    {
+      "repo": "nocfo/nocfo-ai-toolkit",
+      "description": "Give AI assistants full access to Finnish bookkeeping, invoicing, and business data",
+      "stars": 0,
+      "url": "https://github.com/nocfo/nocfo-ai-toolkit"
+    },
+    {
+      "repo": "wbin0001/Memory-Compass",
+      "description": "\u5728\u6570\u5b57\u6ca7\u6d77\u4e2d\uff0c\u627e\u5230\u4f60\u7684\u65b9\u5411 - Memory Management Skill for OpenClaw",
+      "stars": 0,
+      "url": "https://github.com/wbin0001/Memory-Compass"
+    },
+    {
+      "repo": "flyzhenghao/plan-index-manager",
+      "description": "Automatically maintain an organized index of your Claude Code planning files",
+      "stars": 0,
+      "url": "https://github.com/flyzhenghao/plan-index-manager"
+    },
+    {
+      "repo": "wadim/haveibeenclawned",
+      "description": "Security audit for OpenClaw agents \u2014 72 checks, one command",
+      "stars": 0,
+      "url": "https://github.com/wadim/haveibeenclawned"
+    },
+    {
+      "repo": "ZianTT/ctf-plat-skills",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/ZianTT/ctf-plat-skills"
+    },
+    {
+      "repo": "rikouu/openclaw-multiagent",
+      "description": "OpenClaw skill for managing multi-agent Telegram group collaboration",
+      "stars": 0,
+      "url": "https://github.com/rikouu/openclaw-multiagent"
+    },
+    {
+      "repo": "ragnvald/paperskill",
+      "description": "OpenClaw skill for fetching/searching/linking docs in Paperless",
+      "stars": 0,
+      "url": "https://github.com/ragnvald/paperskill"
+    },
+    {
+      "repo": "ofisk/loresmith-ai",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/ofisk/loresmith-ai"
+    },
+    {
+      "repo": "hixz12d/paper-to-note",
+      "description": "Not another chat-with-PDF tool. An evidence-backed paper-to-note skill for experimental research.",
+      "stars": 0,
+      "url": "https://github.com/hixz12d/paper-to-note"
+    },
+    {
+      "repo": "ylongw/video-whisper",
+      "description": "\ud83c\udf99\ufe0f Local video/audio transcription on Apple Silicon using MLX Whisper. No API keys, no cloud, no cost.",
+      "stars": 0,
+      "url": "https://github.com/ylongw/video-whisper"
+    },
+    {
+      "repo": "smartgator/smart-accounts-kit-skills",
+      "description": "Skills to use MetaMask Smart Accounts Kit",
+      "stars": 0,
+      "url": "https://github.com/smartgator/smart-accounts-kit-skills"
+    },
+    {
+      "repo": "HuakunShen/tauri-plugin-js",
+      "description": "Bring Electron-like backend js runtime to Tauri",
+      "stars": 0,
+      "url": "https://github.com/HuakunShen/tauri-plugin-js"
+    },
+    {
+      "repo": "llh315434220/claude-skill-architect",
+      "description": "Build high-quality Claude Skills following Anthropic official best practices.",
+      "stars": 0,
+      "url": "https://github.com/llh315434220/claude-skill-architect"
+    },
+    {
+      "repo": "tmustier/economist-tui",
+      "description": "Read The Economist from your terminal using your subscription. Unofficial. Comes with CLI and SKILL.md.",
+      "stars": 0,
+      "url": "https://github.com/tmustier/economist-tui"
+    },
+    {
+      "repo": "Garfield1002/tg-rs",
+      "description": "A \"unix-like\" utility for sending yourself Telegram messages from the terminal",
+      "stars": 0,
+      "url": "https://github.com/Garfield1002/tg-rs"
+    },
+    {
+      "repo": "sunrisever/bilibili-follow",
+      "description": "Export Bilibili follows, classify with ChatGPT/Claude/Gemini or other frontier LLMs, then sync groups back | \u5bfc\u51faB\u7ad9\u5173\u6ce8\u5217\u8868\uff0c\u4ea4\u7ed9ChatGPT/Claude/Gemini\u7b49\u901a\u7528\u5927\u6a21\u578b\u5206\u7c7b\uff0c\u518d\u540c\u6b65\u56de\u5206\u7ec4",
+      "stars": 0,
+      "url": "https://github.com/sunrisever/bilibili-follow"
+    },
+    {
+      "repo": "richlander/markout",
+      "description": "Objects to Structured Logs Serializer (markdown, oneline, TSV, ANSI, tree, ...)",
+      "stars": 0,
+      "url": "https://github.com/richlander/markout"
+    },
+    {
+      "repo": "KJ-AIML/docs-boy-skill",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/KJ-AIML/docs-boy-skill"
+    },
+    {
+      "repo": "thedotmack/crabspace-skill",
+      "description": "CrabSpace skill for AI agents - MySpace-style social network",
+      "stars": 0,
+      "url": "https://github.com/thedotmack/crabspace-skill"
+    },
+    {
+      "repo": "zangqilong198812/openclaw-xiaohongshu-publish-skill",
+      "description": "RedNote publish skill for openclaw. User Chrome to publish RedNote post.",
+      "stars": 0,
+      "url": "https://github.com/zangqilong198812/openclaw-xiaohongshu-publish-skill"
+    },
+    {
+      "repo": "mvanhorn/clawdbot-skill-tesla",
+      "description": "Full Tesla control from the terminal - dashboard, scheduled preconditioning, energy monitoring, charge station finder, multi-vehicle management via Fleet API. OpenClaw skill.",
+      "stars": 0,
+      "url": "https://github.com/mvanhorn/clawdbot-skill-tesla"
+    },
+    {
+      "repo": "kawaxi/Scripts",
+      "description": "Smalls Scripts made to create my life with Kali Easier!",
+      "stars": 0,
+      "url": "https://github.com/kawaxi/Scripts"
+    },
+    {
+      "repo": "Wolfe-Jam/faf-skills",
+      "description": "Claude Code skills for .faf \u2014 reusable workflows for project DNA management",
+      "stars": 0,
+      "url": "https://github.com/Wolfe-Jam/faf-skills"
+    },
+    {
+      "repo": "tomtev/loopwind",
+      "description": "Create videos and images with React, Tailwind and Shadcn classes.",
+      "stars": 0,
+      "url": "https://github.com/tomtev/loopwind"
+    },
+    {
+      "repo": "clarkrickman2/Antigravity-Filament-v4-skill",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/clarkrickman2/Antigravity-Filament-v4-skill"
+    },
+    {
+      "repo": "jshchnz/vercel-cost-guard",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/jshchnz/vercel-cost-guard"
+    },
+    {
+      "repo": "jamesburton/skills-guru",
+      "description": "Expert skill manager for Claude Code \u2014 install, scope, sync, and curate skills with secure config handling",
+      "stars": 0,
+      "url": "https://github.com/jamesburton/skills-guru"
+    },
+    {
+      "repo": "ScottHolden/WinFormDiscoverSkill",
+      "description": "A small CLI utility + skill to capture WinForm details and visual layout for GitHub Agents to use",
+      "stars": 0,
+      "url": "https://github.com/ScottHolden/WinFormDiscoverSkill"
+    },
+    {
+      "repo": "w33ts/virustotal-api-skill",
+      "description": "Agent skill for the VirusTotal API v3 - file/URL/domain scanning, threat intelligence lookups, and IoC enrichment",
+      "stars": 0,
+      "url": "https://github.com/w33ts/virustotal-api-skill"
+    },
+    {
+      "repo": "derekphilipau/museum-semantic-search",
+      "description": "AI-powered semantic search for museum collections.",
+      "stars": 0,
+      "url": "https://github.com/derekphilipau/museum-semantic-search"
+    },
+    {
+      "repo": "ordinals-wallet/ow-cli",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/ordinals-wallet/ow-cli"
+    },
+    {
+      "repo": "theaayushstha1/job-applier-agent",
+      "description": "Automated job applications with Claude Code. Apply to 100+ jobs with personalized resumes, cover letters, and recruiter outreach.",
+      "stars": 0,
+      "url": "https://github.com/theaayushstha1/job-applier-agent"
+    },
+    {
+      "repo": "anivar/redux-saga-skill",
+      "description": "AI agent skill for Redux-Saga \u2014 25 rules: effects, fork model, channels, RTK integration. Works with Claude Code, Cursor, Codex, Windsurf.",
+      "stars": 0,
+      "url": "https://github.com/anivar/redux-saga-skill"
+    },
+    {
+      "repo": "nikaakin/alarm-notify",
+      "description": "Simple timer notifications with custom messages",
+      "stars": 0,
+      "url": "https://github.com/nikaakin/alarm-notify"
+    },
+    {
+      "repo": "rawwerks/ralph-eats-beads",
+      "description": "Autonomous AI coding loop using bd for task management",
+      "stars": 0,
+      "url": "https://github.com/rawwerks/ralph-eats-beads"
+    },
+    {
+      "repo": "lisniuse/taoguba-crawler-skill",
+      "description": "\u6dd8\u80a1\u5427\u5e16\u5b50\u722c\u53d6skill\uff0c\u7ed9 AI agent\uff08AI\u667a\u80fd\u4f53\uff09\u4f7f\u7528\u3002",
+      "stars": 0,
+      "url": "https://github.com/lisniuse/taoguba-crawler-skill"
+    },
+    {
+      "repo": "HanakumaChifuyu/nvim-lua-toolchain",
+      "description": "A one-command scaffold for a complete code-quality and test toolchain in Neovim Lua plugin repositories.",
+      "stars": 0,
+      "url": "https://github.com/HanakumaChifuyu/nvim-lua-toolchain"
+    },
+    {
+      "repo": "ChrisLou-bioinfo/Paper2Protocol",
+      "description": "Transform published papers into actionable experimental validation plans with bioinformatics code",
+      "stars": 0,
+      "url": "https://github.com/ChrisLou-bioinfo/Paper2Protocol"
+    },
+    {
+      "repo": "chaigon/code-security-audit-skill",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/chaigon/code-security-audit-skill"
+    },
+    {
+      "repo": "DjTaNg-404/md-to-rednote",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/DjTaNg-404/md-to-rednote"
+    },
+    {
+      "repo": "bsisduck/video-analyzer-skill",
+      "description": "Video analysis skill for Claude Code \u2014 frame extraction, scene detection, transcription, parallel subagent analysis",
+      "stars": 0,
+      "url": "https://github.com/bsisduck/video-analyzer-skill"
+    },
+    {
+      "repo": "FuzulsFriend/vibe-code-health-check",
+      "description": "Claude Code skill: grades your codebase A through F across 6 health dimensions with plain-English fixes \u2014 built for vibe coders and solo founders",
+      "stars": 0,
+      "url": "https://github.com/FuzulsFriend/vibe-code-health-check"
+    },
+    {
+      "repo": "yomero243/PhysicClaw-VEA",
+      "description": "PHYSIC-CLAW-VEA is a real-time, interactive visualization environment designed to give a digital \"body\" to the Soul of an OpenClaw agent. The project transcends the conventional chat interface, transforming the agent's activity logs, karma, and identity into a dynamic 3D entity that resides on the web.",
+      "stars": 0,
+      "url": "https://github.com/yomero243/PhysicClaw-VEA"
+    },
+    {
+      "repo": "cubao/pybind11-naive-svg",
+      "description": "naive svg writer",
+      "stars": 0,
+      "url": "https://github.com/cubao/pybind11-naive-svg"
+    },
+    {
+      "repo": "lnrdll/ymr",
+      "description": "Lightweight, spec-driven YAML template tool",
+      "stars": 0,
+      "url": "https://github.com/lnrdll/ymr"
+    },
+    {
+      "repo": "astoreyai/claude-skills",
+      "description": "Personal collection of Claude Code skills for enhanced AI-assisted workflows",
+      "stars": 0,
+      "url": "https://github.com/astoreyai/claude-skills"
+    },
+    {
+      "repo": "1055373165/Leetcode-Algorithm-Visualization",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/1055373165/Leetcode-Algorithm-Visualization"
+    },
+    {
+      "repo": "iri-pycpt/PyCPT2-Central-Chile-Seasonal-Forecast-User-Guide",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/iri-pycpt/PyCPT2-Central-Chile-Seasonal-Forecast-User-Guide"
+    },
+    {
+      "repo": "iri-pycpt/JupyterBooks",
+      "description": "PyCPT Documentation, Tutorials and User Guides written with Jupyter Books",
+      "stars": 0,
+      "url": "https://github.com/iri-pycpt/JupyterBooks"
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "description": "Open-source orchestration for zero-human companies",
+      "stars": 0,
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "repo": "appwrite/appwrite",
+      "description": "Appwrite\u00ae - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+      "stars": 0,
+      "url": "https://github.com/appwrite/appwrite"
+    },
+    {
+      "repo": "ai-analyst-lab/ai-analyst",
+      "description": "AI Product Analyst \u2014 Claude Code-powered data analysis toolkit",
+      "stars": 0,
+      "url": "https://github.com/ai-analyst-lab/ai-analyst"
+    },
+    {
+      "repo": "sickn33/antigravity-awesome-skills",
+      "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.",
+      "stars": 0,
+      "url": "https://github.com/sickn33/antigravity-awesome-skills"
+    },
+    {
+      "repo": "sc30gsw/claude-code-customes",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/sc30gsw/claude-code-customes"
+    },
+    {
+      "repo": "skyremote/claude-code-notebooklm-skills",
+      "description": "Hands-on workshop: Claude Code + Google NotebookLM for persistent AI memory and content generation. By NavAIgate.",
+      "stars": 0,
+      "url": "https://github.com/skyremote/claude-code-notebooklm-skills"
+    },
+    {
+      "repo": "apitally/docs",
+      "description": "Apitally documentation using Mintlify",
+      "stars": 0,
+      "url": "https://github.com/apitally/docs"
+    },
+    {
+      "repo": "destuar/Agent-Harness",
+      "description": "A minimal, reusable agent loop for building LLM agents",
+      "stars": 0,
+      "url": "https://github.com/destuar/Agent-Harness"
+    },
+    {
+      "repo": "Bae-ChangHyun/ai-newsletter-skills",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/Bae-ChangHyun/ai-newsletter-skills"
+    },
+    {
+      "repo": "gimomusiq/Project-Ram-Crisis",
+      "description": "Prototype Windows RAM deduplication engine with user-mode page scanning, a kernel driver skeleton, COW-protected page tracking, and packaging/signing tooling. Designed for review and integration testing, not yet a production-ready kernel COW handler.",
+      "stars": 0,
+      "url": "https://github.com/gimomusiq/Project-Ram-Crisis"
+    },
+    {
+      "repo": "jflavan/ryo-kit",
+      "description": "Roll Your Own AI-driven development framework",
+      "stars": 0,
+      "url": "https://github.com/jflavan/ryo-kit"
+    },
+    {
+      "repo": "mandubian/autonoetic",
+      "description": "Autonoetic Agent System",
+      "stars": 0,
+      "url": "https://github.com/mandubian/autonoetic"
+    },
+    {
+      "repo": "kilwizac/solidworks-addin-skills",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/kilwizac/solidworks-addin-skills"
+    },
+    {
+      "repo": "wavetermdev/waveterm",
+      "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+      "stars": 0,
+      "url": "https://github.com/wavetermdev/waveterm"
+    },
+    {
+      "repo": "joeycmlam/mypoc",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/joeycmlam/mypoc"
+    },
+    {
+      "repo": "abelrguezr/hacktricks-skills",
+      "description": "A collection of reusable red teaming agent skills derived from Hacktricks created with Qwen3.5-27B-FP8",
+      "stars": 0,
+      "url": "https://github.com/abelrguezr/hacktricks-skills"
+    },
+    {
+      "repo": "choice-open/atomemo-official-plugins",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/choice-open/atomemo-official-plugins"
+    },
+    {
+      "repo": "oraekene/Agent-skills-assessment",
+      "description": "tooing for comparing between various skills, agents and others in the same domain",
+      "stars": 0,
+      "url": "https://github.com/oraekene/Agent-skills-assessment"
+    },
+    {
+      "repo": "AIWander/manager",
+      "description": "Run many full Claude Code sessions in parallel from chat, each with its own reasoning - instead of spawning isolated sub-agents inside one session. Codex and Gemini CLI supported in beta.",
+      "stars": 0,
+      "url": "https://github.com/AIWander/manager"
+    },
+    {
+      "repo": "redpanda-data/redpanda",
+      "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+      "stars": 0,
+      "url": "https://github.com/redpanda-data/redpanda"
+    },
+    {
+      "repo": "davidrrowley/DFMDemoV2",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/davidrrowley/DFMDemoV2"
+    },
+    {
+      "repo": "tools-only/X-Skills",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/tools-only/X-Skills"
+    },
+    {
+      "repo": "JenCW/brandedflow",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/JenCW/brandedflow"
+    },
+    {
+      "repo": "promptranks/prk-psv-flow",
+      "description": "PSV sample generation workflow for PromptRanks meta-cognition assessments",
+      "stars": 0,
+      "url": "https://github.com/promptranks/prk-psv-flow"
+    },
+    {
+      "repo": "edwardmonteiro/Cognitiveapiupdater",
+      "description": "A validation process of APIs based on plugins And Skills ",
+      "stars": 0,
+      "url": "https://github.com/edwardmonteiro/Cognitiveapiupdater"
+    },
+    {
+      "repo": "deanpeters/Product-Manager-Skills",
+      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+      "stars": 0,
+      "url": "https://github.com/deanpeters/Product-Manager-Skills"
+    },
+    {
+      "repo": "zubair-trabzada/ai-marketing-claude",
+      "description": "AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents \u2014 audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports.",
+      "stars": 0,
+      "url": "https://github.com/zubair-trabzada/ai-marketing-claude"
+    },
+    {
+      "repo": "vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "stars": 0,
+      "url": "https://github.com/vllm-project/vllm-ascend"
+    },
+    {
+      "repo": "wgpsec/AboutSecurity",
+      "description": "Everything for pentest. | \u6e17\u900f\u6d4b\u8bd5\u77e5\u8bc6\u5e93\uff0c\u4ee5 AI Agent \u53ef\u6267\u884c\u7684\u683c\u5f0f\u6c89\u6dc0\u5b89\u5168\u65b9\u6cd5\u8bba\u3002",
+      "stars": 0,
+      "url": "https://github.com/wgpsec/AboutSecurity"
+    },
+    {
+      "repo": "getsentry/XcodeBuildMCP",
+      "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+      "stars": 0,
+      "url": "https://github.com/getsentry/XcodeBuildMCP"
+    },
+    {
+      "repo": "kurtosis-tech/kurtosis",
+      "description": "A platform for packaging and launching blockchain infra. Think docker compose for blockchain",
+      "stars": 0,
+      "url": "https://github.com/kurtosis-tech/kurtosis"
+    },
+    {
+      "repo": "oss-apps/split-pro",
+      "description": "Open source alternative to Splitwise",
+      "stars": 0,
+      "url": "https://github.com/oss-apps/split-pro"
+    },
+    {
+      "repo": "star23/Day1Global-Skills",
+      "description": "Day1Global Skills Share: US Stock, Macro Market, Crypto",
+      "stars": 0,
+      "url": "https://github.com/star23/Day1Global-Skills"
+    },
+    {
+      "repo": "tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "stars": 0,
+      "url": "https://github.com/tractorjuice/arc-kit"
+    },
+    {
+      "repo": "agentic-community/mcp-gateway-registry",
+      "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+      "stars": 0,
+      "url": "https://github.com/agentic-community/mcp-gateway-registry"
+    },
+    {
+      "repo": "first-fluke/oh-my-agent",
+      "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
+      "stars": 0,
+      "url": "https://github.com/first-fluke/oh-my-agent"
+    },
+    {
+      "repo": "DataRecce/recce",
+      "description": "The data-validation toolkit for enhanced dbt (data build tool) PR review",
+      "stars": 0,
+      "url": "https://github.com/DataRecce/recce"
+    },
+    {
+      "repo": "laravel/agent-skills",
+      "description": "Laravel official collection of agent skills",
+      "stars": 0,
+      "url": "https://github.com/laravel/agent-skills"
+    },
+    {
+      "repo": "majiayu000/claude-skill-registry",
+      "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
+      "stars": 0,
+      "url": "https://github.com/majiayu000/claude-skill-registry"
+    },
+    {
+      "repo": "NVIDIA/cuEquivariance",
+      "description": "cuEquivariance is a math library that is a collective of low-level primitives and tensor ops to accelerate widely-used models, like DiffDock, MACE, Allegro and NEQUIP, based on equivariant neural networks. Also includes kernels for accelerated structure prediction.",
+      "stars": 0,
+      "url": "https://github.com/NVIDIA/cuEquivariance"
+    },
+    {
+      "repo": "shinpr/claude-code-workflows",
+      "description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+      "stars": 0,
+      "url": "https://github.com/shinpr/claude-code-workflows"
+    },
+    {
+      "repo": "flpbalada/my-opencode-config",
+      "description": "",
+      "stars": 0,
+      "url": "https://github.com/flpbalada/my-opencode-config"
+    },
+    {
+      "repo": "mergesort/Recap",
+      "description": "A What's New screen, and more",
+      "stars": 0,
+      "url": "https://github.com/mergesort/Recap"
+    },
+    {
+      "repo": "mediastormDev/dream-to-video-skill",
+      "description": "AI agent skill that transforms dream descriptions into cinematic videos \u2014 auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects.",
+      "stars": 0,
+      "url": "https://github.com/mediastormDev/dream-to-video-skill"
+    },
+    {
+      "repo": "ClipboardHealth/core-utils",
+      "description": "Clipboard's core libraries and utilities.",
+      "stars": 0,
+      "url": "https://github.com/ClipboardHealth/core-utils"
+    },
+    {
+      "repo": "megalithic/dotfiles",
+      "description": "\ud83d\uddff  dotfilery, configuration, environment settings, automation, etc. \ud83d\uded6 ",
+      "stars": 0,
+      "url": "https://github.com/megalithic/dotfiles"
+    },
+    {
+      "repo": "xu-xiang/everything-claude-code-zh",
+      "description": "everything-claude-code \u4e2d\u6587\u7ffb\u8bd1\u9879\u76ee\uff1a\u5b8c\u6574\u7684 Claude Code \u914d\u7f6e\u96c6\u5408\uff08agents, skills, hooks, commands, rules, MCPs\uff09\u3002\u6e90\u81ea Anthropic \u9ed1\u5ba2\u677e\u83b7\u80dc\u8005\u7684\u5b9e\u6218\u914d\u7f6e\uff0c\u52a9\u529b\u4e2d\u6587\u5de5\u7a0b\u5e08\u9ad8\u6548\u7406\u89e3\u4e0e\u4f7f\u7528 Claude Code\u3002",
+      "stars": 0,
+      "url": "https://github.com/xu-xiang/everything-claude-code-zh"
+    },
+    {
+      "repo": "blockscout/blockscout-rs",
+      "description": "Microservices for blockscout indexer",
+      "stars": 0,
+      "url": "https://github.com/blockscout/blockscout-rs"
+    },
+    {
+      "repo": "partme-ai/full-stack-skills",
+      "description": "\u8fd9\u662f\u4e00\u4e2a\u514d\u8d39\u7684\u5168\u6808\u5f00\u53d1\u6240\u9700\u7684\u6280\u80fd\u5e02\u573a\uff0c\u63d0\u4f9b\u5404\u79cd\u5b9e\u7528\u7684 AI \u6280\u80fd\u96c6\u5408\uff0c\u652f\u6301\u591a\u79cd\u5e73\u53f0\u3002",
+      "stars": 0,
+      "url": "https://github.com/partme-ai/full-stack-skills"
+    },
+    {
+      "repo": "rhesis-ai/rhesis",
+      "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (adversarial) conversations, and trace every failure to its root cause.",
+      "stars": 0,
+      "url": "https://github.com/rhesis-ai/rhesis"
+    },
+    {
+      "repo": "dojoengine/book",
+      "description": "The Dojo Book",
+      "stars": 0,
+      "url": "https://github.com/dojoengine/book"
+    },
+    {
+      "repo": "team-telnyx/ai",
+      "description": "Official one-stop shop for AI Agents and developers building with Telnyx.",
+      "stars": 0,
+      "url": "https://github.com/team-telnyx/ai"
+    },
+    {
+      "repo": "joinmassive/clawpod",
+      "description": "OpenClaw skill that works with Massive proxy network",
+      "stars": 0,
+      "url": "https://github.com/joinmassive/clawpod"
+    },
+    {
+      "repo": "loulanyue/awesome-claude-notes",
+      "description": "\ud83c\udfc4 \u5e2e\u52a9\u4f60\u5feb\u901f\u642d\u5efa Claude Code \u4e0e AI Agent \u751f\u4ea7\u529b\u5de5\u4f5c\u6d41\u7684\u5b9e\u6218\u4ed3\u5e93 \ud83c\udfc4 A practical toolkit to help you quickly build high-productivity workflows for Claude Code and AI agents",
+      "stars": 0,
+      "url": "https://github.com/loulanyue/awesome-claude-notes"
+    },
+    {
+      "repo": "TerminalSkills/skills",
+      "description": "Open-source library of AI agent skills \u2014 SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor",
+      "stars": 0,
+      "url": "https://github.com/TerminalSkills/skills"
+    },
+    {
+      "repo": "decentraland/unity-explorer",
+      "description": "Unity Explorer is the official desktop client implementation for Decentraland 2.0, allowing users to explore and interact with the Decentraland metaverse using Unity.",
+      "stars": 0,
+      "url": "https://github.com/decentraland/unity-explorer"
+    },
+    {
+      "repo": "curiositech/some_claude_skills",
+      "description": "Claude skills that make my life easier.",
+      "stars": 0,
+      "url": "https://github.com/curiositech/some_claude_skills"
+    },
+    {
+      "repo": "jmagly/aiwg",
+      "description": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code \u00b7 Codex \u00b7 Copilot \u00b7 Cursor \u00b7 Factory \u00b7 Warp \u00b7 Windsurf.",
+      "stars": 0,
+      "url": "https://github.com/jmagly/aiwg"
+    },
+    {
+      "repo": "kaivyy/kabot",
+      "description": "Next-Gen Autonomous AI Engineer. Ditch the stateless chatbots. Kabot brings Stateful Hybrid Memory, zero-hallucination workflows, and persistent multi-agent orchestration to your local machine. \ud83e\udd8a\ud83d\ude80\ud83d\udee1\ufe0f ",
+      "stars": 0,
+      "url": "https://github.com/kaivyy/kabot"
+    }
+  ]
+}

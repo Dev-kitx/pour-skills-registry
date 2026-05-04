@@ -1,0 +1,37 @@
+  name: Build Registry
+
+  on:
+    schedule:
+      - cron: '0 2 * * *'
+    workflow_dispatch:
+
+  permissions:
+    contents: write
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Generate GitHub App token
+          uses: actions/create-github-app-token@v3
+          id: app-token
+          with:
+            app-id: ${{ vars.APP_ID }}
+            private-key: ${{ secrets.PRIVATE_KEY }}
+
+        - uses: actions/checkout@v6
+          with:
+            token: ${{ steps.app-token.outputs.token }}
+
+        - name: Crawl GitHub for skills
+          env:
+            GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          run: python3 scripts/build.py
+
+        - name: Commit if changed
+          run: |
+            git config user.name "${{ steps.app-token.outputs.app-slug }}[bot]"
+            git config user.email "${{ vars.APP_ID }}+${{ steps.app-token.outputs.app-slug }}[bot]@users.noreply.github.com"
+            git add index.json
+            git diff --cached --quiet || git commit -m "chore: update registry $(date -u +%Y-%m-%d)"
+            git push

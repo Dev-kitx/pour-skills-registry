@@ -102,7 +102,10 @@ PATH_QUERIES = [
     "filename:SKILL.md path:.zencoder",
     "filename:SKILL.md path:.adal",
     "filename:SKILL.md path:.codeartsdoer",
-    "filename:SKILL.md path:skills",           # openclaw project path
+    "filename:SKILL.md path:skills",             # openclaw + flat layouts
+    "filename:SKILL.md path:skills/.curated",
+    "filename:SKILL.md path:skills/.experimental",
+    "filename:SKILL.md path:skills/.system",
     "filename:SKILL.md path:.github",          # github-native layouts
     "filename:SKILL.md path:prompts",          # vscode copilot extension layout
     "filename:SKILL.md path:.amazonq",
